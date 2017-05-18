@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_1_point">+1 punkt</string>
+    <string name="new_game">Nowa gra</string>
+    <string name="team_a">Drużyna A</string>
+    <string name="team_b">Drużyna B</string>
+    <string name="set_for_A">Set wygrała drużyna A</string>
+    <string name="set_for_B">Set wygrała drużyna B</string>
+    <string name="match_for_A">Mecz wygrała drużyna A</string>
+    <string name="match_for_B">Mecz wygrała drużyna B</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Volleyball Counter</string>
+    <string name="team_a"> Team A </string>
+    <string name="team_b"> Team B </string>
+    <string name="starting_points" translatable="false"> 0 </string>
+    <string name="add_1_point"> +1 point </string>
+    <string name="new_game">New game</string>
+
+    <string name="set_for_A">Team A won the set</string>
+    <string name="set_for_B">Team B won the set</string>
+    <string name="match_for_A">Team A won the match</string>
+    <string name="match_for_B">Team B won the match</string>
+</resources>
